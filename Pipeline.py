@@ -57,9 +57,5 @@ if 'date' in data.columns and 'transactions' in data.columns:
     plt.savefig('daily_transactions_trend.png')
     plt.show()
 
-# Step 5: Automation
-# Example placeholder: Automate with Airflow or Prefect (not implemented in this script)
-# Define tasks and workflows for automation
-
 # Print completion message
 print("Pipeline executed successfully. Processed data is stored in 'digital_payments.db', and visualization is saved as 'daily_transactions_trend.png'.")
