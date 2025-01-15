@@ -64,8 +64,6 @@ DigitalPaymentsPipeline/
    - Processed data stored in `digital_payments.db`.
    - Visualization saved as `outputs/daily_transactions_trend.png`.
 
-### Example Output
-![Daily Transactions Trend](outputs/daily_transactions_trend.png)
 
 ## Future Enhancements
 - **Cloud Integration:** Extend pipeline to process data on cloud platforms like AWS or Google Cloud.
